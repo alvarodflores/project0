@@ -1,0 +1,14 @@
+#main-heading {
+  text-align: center;
+  color: black;
+}
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  font-size: 1.1em;
+}
+
+body {
+  background-color: blue;
+}
